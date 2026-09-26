@@ -1,0 +1,388 @@
+{
+  "name": "Sakura 🌸 Path Cat Light theme",
+  "description": "A bright blush-pink theme inspired by the sakura path with the white cat — all backgrounds in blossom pink",
+  "version": "1.3",
+  "authors": [
+    {
+      "name": "𝐑𝐢𝐬𝐤",
+      "id": "1113130615630471290"
+    }
+  ],
+  "semanticColors": {
+    "ANDROID_RIPPLE": [
+      "#f0c3cf"
+    ],
+    "CONTEXT_MENU_BACKDROP_BACKGROUND": [
+      "#e8a0b066"
+    ],
+    "CHAT_BACKGROUND": [
+      "#fbe4ea"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#f6d9e0"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#fbe4ea"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#ffe0e6"
+    ],
+    "FORUM_POST_TAG_BACKGROUND": [
+      "#f3b8c6"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#ffd6de"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "transparent"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "transparent"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#fbe4ea"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#f6cbd6"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#fbe4ea"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
+      "#f6cbd6"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#7a3b47"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#f6cbd6"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#fbe4ea"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#fbe4ea"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#f8d3dc"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#f6d9e0"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#f0c3cf"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#f6cbd6"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#fbe4ea"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#fbe4ea"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#f8d3dc"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#f8d3dc"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#f8d3dc"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#fbe4ea"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#f8d3dc"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#fbe4ea"
+    ],
+    "BG_BACKDROP": [
+      "#5c2a3533"
+    ],
+    "HOME_BACKGROUND": [
+      "#f8d3dc"
+    ],
+    "BORDER_FAINT": [
+      "#f6d9e0"
+    ],
+    "BORDER_STRONG": [
+      "#f0c3cf"
+    ],
+    "BORDER_SUBTLE": [
+      "#fbe4ea"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#f8cdd8"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#f8cdd8"
+    ],
+    "CHANNEL_ICON": [
+      "#c96f85"
+    ],
+    "EMBED_BACKGROUND": [
+      "#f6cbd6"
+    ],
+    "HEADER_PRIMARY": [
+      "#5c2a35"
+    ],
+    "HEADER_SECONDARY": [
+      "#8a4a58"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#5c2a35"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#7a3b47"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#d9a3af"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#6b3441"
+    ],
+    "MENTION_BACKGROUND": [
+      "#ffd6de"
+    ],
+    "MENTION_FOREGROUND": [
+      "#c9506c"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#f3b8c6"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#f3b8c6"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "#fbe4ea"
+    ],
+    "REDESIGN_BUTTON_DANGER_BACKGROUND": [
+      "#e0607d"
+    ],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "#c9506c"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#5c2a35"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#f6cbd6"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#e8a0b0"
+    ],
+    "STATUS_DANGER": [
+      "#e0607d"
+    ],
+    "STATUS_DANGER_BACKGROUND": [
+      "#e0607d"
+    ],
+    "STATUS_DANGER_TEXT": [
+      "#d24f6c"
+    ],
+    "POLLS_NORMAL_FILL_HOVER": [
+      "#f8d3dc"
+    ],
+    "POLLS_NORMAL_IMAGE_BACKGROUND": [
+      "#f6cbd6"
+    ],
+    "POLLS_VICTOR_FILL": [
+      "#f6c8d3"
+    ],
+    "TEXT_LINK": [
+      "#c9506c"
+    ],
+    "TEXT_MUTED": [
+      "#b57584"
+    ],
+    "TEXT_NORMAL": [
+      "#5c2a35"
+    ],
+    "TEXT_PRIMARY": [
+      "#5c2a35"
+    ],
+    "TEXT_SECONDARY": [
+      "#a35a68"
+    ],
+    "KEYBOARD": [
+      "#fbe4ea"
+    ],
+    "PANEL_BG": [
+      "#fbe4ea"
+    ],
+    "BACKGROUND_BASE_LOWEST": [
+      "#f8d3dc"
+    ]
+  },
+  "rawColors": {
+    "BLUE_260": "#a15264",
+    "BLUE_300": "#994f61",
+    "BLUE_330": "#8f4a5c",
+    "BLUE_345": "#5c2a35",
+    "BLUE_360": "#7a3b47",
+    "BLUE_400": "#c96f85",
+    "BLUE_430": "#e8a0b0",
+    "BLUE_460": "#eeb4c1",
+    "BLUE_500": "#f3b8c6",
+    "BLUE_530": "#f0c3cf",
+    "BLUE_560": "#f7dde3",
+    "BLUE_600": "#f8d3dc",
+    "BLUE_630": "#f6d9e0",
+    "BLUE_660": "#f9e2e7",
+    "BLUE_700": "#fbe4ea",
+    "BRAND_200": "#a15264",
+    "BRAND_260": "#a15264",
+    "BRAND_300": "#994f61",
+    "BRAND_330": "#8f4a5c",
+    "BRAND_345": "#5c2a35",
+    "BRAND_360": "#5c2a35",
+    "BRAND_400": "#c96f85",
+    "BRAND_430": "#e8a0b0",
+    "BRAND_460": "#eeb4c1",
+    "BRAND_500": "#e0839c",
+    "BRAND_530": "#f0c3cf",
+    "BRAND_560": "#5c2a35",
+    "BRAND_600": "#f8d3dc",
+    "BRAND_630": "#f6d9e0",
+    "BRAND_660": "#f9e2e7",
+    "BRAND_700": "#fbe4ea",
+    "BRAND_730": "#f7dde3",
+    "PLUM_1": "#b57584",
+    "PLUM_10": "#b57584",
+    "PLUM_11": "#e0839c",
+    "PLUM_13": "#f6d9e0",
+    "PLUM_15": "#f8d3dc",
+    "PLUM_16": "#f8cdd8",
+    "PLUM_17": "#f6cbd6",
+    "PLUM_18": "#fbe4ea",
+    "PLUM_19": "#fbe4ea",
+    "PLUM_20": "#fbe4ea",
+    "PLUM_21": "#f8d3dc",
+    "PLUM_22": "#f8d7de",
+    "PLUM_24": "#f7d0da",
+    "PLUM_25": "#f9d7e0",
+    "PLUM_3": "#5c2a35",
+    "PLUM_4": "#e8a0b0",
+    "PLUM_6": "#5c2a35",
+    "PLUM_9": "#b57584",
+    "PRIMARY_100": "#FFFFFF",
+    "PRIMARY_200": "#ffffff",
+    "PRIMARY_300": "#a15264",
+    "PRIMARY_330": "#f9d5de",
+    "PRIMARY_360": "#f9d5de",
+    "PRIMARY_400": "#ffffff",
+    "PRIMARY_460": "#eeb4c1",
+    "PRIMARY_500": "#f3b8c6",
+    "PRIMARY_530": "#f0c3cf",
+    "PRIMARY_600": "#f6cbd6",
+    "PRIMARY_630": "#f7d0da",
+    "PRIMARY_645": "#fbe4ea",
+    "PRIMARY_660": "#f6cdd7",
+    "PRIMARY_700": "#f6cdd7",
+    "PRIMARY_730": "#f6cdd7",
+    "PRIMARY_800": "#f6cbd6",
+    "GREEN_260": "#a15264",
+    "GREEN_300": "#994f61",
+    "GREEN_330": "#8f4a5c",
+    "GREEN_345": "#5c2a35",
+    "GREEN_360": "#de8695",
+    "GREEN_400": "#c96f85",
+    "GREEN_430": "#e8a0b0",
+    "GREEN_460": "#eeb4c1",
+    "GREEN_500": "#f3b8c6",
+    "GREEN_530": "#f0c3cf",
+    "GREEN_560": "#f7dde3",
+    "GREEN_600": "#f8d3dc",
+    "GREEN_630": "#f6d9e0",
+    "GREEN_660": "#f9e2e7",
+    "GREEN_700": "#fbe4ea",
+    "GUILD_BOOSTING_PINK": "#e0839c",
+    "GUILD_BOOSTING_PURPLE": "#e0839c",
+    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#e0839c",
+    "RED_260": "#a15264",
+    "RED_300": "#994f61",
+    "RED_330": "#8f4a5c",
+    "RED_345": "#d24f6c",
+    "RED_360": "#7a3b47",
+    "RED_400": "#e0607d",
+    "RED_430": "#d24f6c",
+    "RED_460": "#eeb4c1",
+    "RED_500": "#f3b8c6",
+    "RED_530": "#f0c3cf",
+    "RED_560": "#f7dde3",
+    "RED_600": "#f8d3dc",
+    "RED_630": "#f6d9e0",
+    "RED_660": "#f9e2e7",
+    "RED_700": "#fbe4ea",
+    "ROLE_DEFAULT": "#FFFFFF",
+    "ORANGE_260": "#a15264",
+    "ORANGE_300": "#994f61",
+    "ORANGE_330": "#8f4a5c",
+    "ORANGE_345": "#5c2a35",
+    "ORANGE_360": "#7a3b47",
+    "ORANGE_400": "#c96f85",
+    "ORANGE_430": "#e8a0b0",
+    "ORANGE_460": "#eeb4c1",
+    "ORANGE_500": "#f3b8c6",
+    "ORANGE_530": "#f0c3cf",
+    "ORANGE_560": "#f7dde3",
+    "ORANGE_600": "#f8d3dc",
+    "ORANGE_630": "#f6d9e0",
+    "ORANGE_660": "#f9e2e7",
+    "ORANGE_700": "#fbe4ea",
+    "YELLOW_260": "#a15264",
+    "YELLOW_300": "#994f61",
+    "YELLOW_330": "#8f4a5c",
+    "YELLOW_345": "#5c2a35",
+    "YELLOW_360": "#7a3b47",
+    "YELLOW_400": "#c96f85",
+    "YELLOW_430": "#e8a0b0",
+    "YELLOW_460": "#eeb4c1",
+    "YELLOW_500": "#f3b8c6",
+    "YELLOW_530": "#f0c3cf",
+    "YELLOW_560": "#f7dde3",
+    "YELLOW_600": "#f8d3dc",
+    "YELLOW_630": "#f6d9e0",
+    "YELLOW_660": "#f9e2e7",
+    "YELLOW_700": "#fbe4ea",
+    "WHITE_500": "#FFFFFF",
+    "WHITE_630": "#c9506c"
+  },
+  "fonts": {
+    "ABCGintoNord-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+    "ggsans-Bold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+    "ggsans-BoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
+    "ggsans-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+    "ggsans-ExtraBoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
+    "ggsans-Medium": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-MediumItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-Normal": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-NormalItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-Semibold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-SemiboldItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Bold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-ExtraBold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Medium": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Normal": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-NormalItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
+    "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
+  },
+  "plus": {
+    "version": 0,
+    "iconpack": "rosiecord-plumpy",
+    "mentionLineColor": "#c9506c"
+  },
+  "spec": 2,
+  "background": {
+    "url": "https://i.postimg.cc/VN9bsM9W/ezgif-1457ca2328efe805.gif",
+    "alpha": 0.55,
+    "blur": 0.6
+  }
+}
